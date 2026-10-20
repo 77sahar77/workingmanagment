@@ -1,0 +1,6 @@
+{
+  "appId": "com.sahar.maslul",
+  "appName": "מסלול",
+  "webDir": "dist",
+  "android": { "backgroundColor": "#F2F1EC" }
+}
